@@ -8,7 +8,7 @@ const config = DefaultConfig[0];
 config.input = "test/index.ts"
 config.output = {
     ...config.output,
-    file: "test/assets/test_build_cache/index.js",
+    file: "test/assets/build_cache/index.js",
     format: 'umd',
     sourcemap: false
 }
