@@ -29,7 +29,7 @@
     "rollup-plugin-require-context": "^1.0.1",
     "rollup-plugin-typescript2": "^0.34.1",
     "rollup-plugin-web-worker-loader": "^1.6.1",
-    "simp-spec": "^0.0.1",
+    "simp-spec": "^0.0.2",
     "tslib": "^2.5.0",
     "typedoc": "^0.24.6",
     "typescript": "^5.0.4"
